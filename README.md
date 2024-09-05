@@ -16,7 +16,7 @@ HTML5, CSS, Javascript and Open Dictionary API.
 
 ## Links
 
-[https://dictionary-260r.onrender.com/](https://rich-text-editor-x8ue.onrender.com/)
+https://rich-text-editor-x8ue.onrender.com/
    
 ## Versioning
 
