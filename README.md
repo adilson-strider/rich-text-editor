@@ -2,11 +2,11 @@
 
 ## Description 
 
-A simple dictionary.
+A simple and usable rich text editor.
 
 ## Technology 
 
-HTML5, CSS, Javascript and Open Dictionary API.
+HTML5, CSS, Javascript.
 
 ## How to use
 
