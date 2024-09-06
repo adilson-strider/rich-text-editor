@@ -10,7 +10,7 @@ HTML5, CSS, Javascript.
 
 ## How to use
 
-### 1 - Insert a text and use the format tools. 
+Insert a text and use the format tools. 
 
 ![image](https://github.com/user-attachments/assets/89e053c2-cd4b-4e5f-a97b-eda9534f0545)
 
